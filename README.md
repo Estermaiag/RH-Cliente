@@ -10,6 +10,6 @@
   <h4>Projeto desenvolvido em parceria com:</h4>
       <a href="https://github.com/Ceduda23">👩‍💻 Cecília
       <a href="https://github.com/Lindeia">👩‍💻 Lindeia
-      <a href="https://github.com/yagohpt11221">👨‍💻 Líder Yago
+      <a href="https://github.com/yagohpt11221">👨‍💻 Yago
       <a href="https://github.com/Gabriel21Oliver">👨‍💻 Gabriel
       <a href="https://github.com/Estermaiag">👩‍💻 Ester
